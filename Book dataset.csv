@@ -1,0 +1,31 @@
+﻿Book ID,Title,Author,Genre,Publication Year,ISBN
+201,"""The Great Gatsby""",F. Scott Fitzgerald,Fiction,1925,978-0743273565
+202,"""To Kill a Mockingbird""",Harper Lee,Fiction,1960,978-0061120084
+203,"""1984""",George Orwell,Fiction,1949,978-0451524935
+204,"""Pride and Prejudice""",Jane Austen,,1813,978-0141439518
+205,"""The Catcher in the Rye""",J.D. Salinger,Fiction,1951,978-0316769174
+206,"""The Hobbit""",J.R.R. Tolkien,Fantasy,1937,978-0345534835
+207,"""Brave New World""",Aldous Huxley,Science Fiction,,978-0060850524
+208,"""Moby-Dick""",Herman Melville,Adventure,1851,978-0142437247
+209,"""The Lord of the Rings""",J.R.R. Tolkien,,1954,978-0618640157
+210,"""The Odyssey""",Homer,Epic Poetry,,978-0143039952
+211,"""The Alchemist""",Paulo Coelho,Fiction,1988,978-0061122415
+212,"""The Chronicles of Narnia""",C.S. Lewis,Fantasy,,978-0064400558
+213,"""The Shining""",Stephen King,Horror,1977,978-0307743657
+214,"""The Grapes of Wrath""",John Steinbeck,Fiction,1939,978-0143039433
+215,"""Frankenstein""",Mary Shelley,Horror,1818,978-0141439471
+216,"""The Road""",Cormac McCarthy,Fiction,2006,978-0307387899
+217,"""The Hitchhiker's Guide...""",,Science Fiction,1979,978-0345391803
+218,"""The Great Expectations""",Charles Dickens,Fiction,1861,978-0141439563
+219,"""Fahrenheit 451""",Ray Bradbury,Science Fiction,1953,978-1451673319
+220,"""One Hundred Years of Solitude""",Gabriel Garcia Marquez,Fiction,1967,978-0061120091
+221,"""Crime and Punishment""",,Fiction,1866,978-0679734505
+222,"""War and Peace""",Leo Tolstoy,Historical Fiction,1869,978-0199232765
+223,"""The Count of Monte Cristo""",Alexandre Dumas,Adventure,1844,978-0140449266
+224,"""Don Quixote""",Miguel de Cervantes,,1605,978-0060934347
+225,"""Anna Karenina""",Leo Tolstoy,Fiction,1877,978-0143035008
+226,"""The Picture of Dorian Gray""",Oscar Wilde,Fiction,1890,978-0141439570
+227,"""The Brothers Karamazov""",Fyodor Dostoevsky,Fiction,1880,978-0140449242
+228,"""The Iliad""",,Epic Poetry,,978-0140275360
+229,"""The Hound of the Baskervilles""",Arthur Conan Doyle,Mystery,1902,978-0140437867
+230,"""The Secret Garden""",Frances Hodgson Burnett,Children's,1911,978-0142437056
